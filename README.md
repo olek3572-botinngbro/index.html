@@ -1,6 +1,5 @@
 <!doctype html>
-# index.html
-hahaahahah
+
 
 <HTML lang="PL">
 		<meta charset="UTF=8">
@@ -10,7 +9,7 @@ hahaahahah
 			<h1> huj ci w dupe pani alicjo okrówjo</h1>
 			<align="right"="300"><H2>O</H2>
 			<align="center"><H3>O</H3>
-			<align="height"="800" <H4>O</H4>
+			<align="height"="800"><H4>O</H4>
 			<aligin="width"="600"><H5>O</H5>
 			<H6>O</H6>
 			<P>PIERDOL SIE</P><BR>
